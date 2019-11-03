@@ -5,7 +5,7 @@ Continuous Variable Binning Algorithm to Maximize Information Value using Geneti
 [Full paper download](https://link.springer.com/chapter/10.1007/978-3-030-32475-9_12)
 
 ## Cite the paper: 
-Vejkanchana N., Kucharoen P. (2019) Continuous Variable Binning Algorithm to Maximize Information Value Using Genetic Algorithm. In: Florez H., Leon M., Diaz-Nafria J., Belli S. (eds) Applied Informatics. ICAI 2019. Communications in Computer and Information Science, vol 1051. Springer, Cham
+Vejkanchana N., Kuacharoen P. (2019) Continuous Variable Binning Algorithm to Maximize Information Value Using Genetic Algorithm. In: Florez H., Leon M., Diaz-Nafria J., Belli S. (eds) Applied Informatics. ICAI 2019. Communications in Computer and Information Science, vol 1051. Springer, Cham
 
 ## Setup with anaconda
 ```bash
