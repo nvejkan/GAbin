@@ -183,10 +183,10 @@ def bin_all(p_df,p_good_ind,y_colname):
     iv_tab_list = []
     
     #SETUP your desired cost function (fitness function) here
-    #all_cost_fn = [IV_mono,IV_1peak,IV_2peak,IV_noconst]
-    all_cost_fn = [IV_2peak]
-    #all_cost_fn_name = ['mono','1peak','2peak','noconst']
-    all_cost_fn_name = ['2peak']
+    all_cost_fn = [IV_mono,IV_1peak,IV_2peak,IV_noconst]
+    #all_cost_fn = [IV_2peak]
+    all_cost_fn_name = ['mono','1peak','2peak','noconst']
+    #all_cost_fn_name = ['2peak']
     
     pool = mp.Pool(mp.cpu_count())
     
